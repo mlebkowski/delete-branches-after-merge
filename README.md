@@ -14,7 +14,7 @@
 
    ![CleanShot 2023-01-25 at 11 15 43@2x](https://user-images.githubusercontent.com/848731/214537226-271f3017-1c36-46a0-893e-c04a2bdff7f5.png)
 
-6. Merging a branch to non-default upstream will delete it too, though. Keep that in mind for any advanced workflows like gitflow, where you’d like to merge branch into multiple places. But then again, restore is just one click away:
+6. [Merging a branch to non-default upstream](https://github.com/mlebkowski/delete-branches-after-merge/pull/5) will delete it too, though. Keep that in mind for any advanced workflows like gitflow, where you’d like to merge branch into multiple places. But then again, restore is just one click away:
 
    ![CleanShot 2023-01-25 at 11 20 00@2x](https://user-images.githubusercontent.com/848731/214538110-1ce71690-3d0d-41c4-9fc7-4d3834b75f23.png)
 
