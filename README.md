@@ -11,3 +11,6 @@
    ![CleanShot 2023-01-25 at 11 07 40@2x](https://user-images.githubusercontent.com/848731/214535800-c20664e6-d6e1-458c-890e-6a39ebaffe76.png)
 
 5. Even [after a successfull PR merge](https://github.com/mlebkowski/delete-branches-after-merge/pull/4), this branch remains, because it has [another PR open](https://github.com/mlebkowski/delete-branches-after-merge/pull/3)
+
+   ![CleanShot 2023-01-25 at 11 15 43@2x](https://user-images.githubusercontent.com/848731/214537226-271f3017-1c36-46a0-893e-c04a2bdff7f5.png)
+
